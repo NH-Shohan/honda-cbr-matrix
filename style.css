@@ -1,0 +1,118 @@
+/********************/
+/* Header Container */
+/********************/
+
+.header-container {
+  background-color: #264653;
+  width: 100%;
+  height: 100vh;
+}
+.nav-link:hover {
+  background-color: #e76f51;
+  border-radius: 5px;
+}
+.header-section {
+  margin-top: -25px;
+}
+.header-left p {
+  font-size: 14px;
+}
+.btn {
+  background-color: #e76f51;
+  border: none;
+}
+.btn:hover {
+  background-color: #e65a37;
+}
+
+/************************/
+/* Fetured Bike Section */
+/************************/
+
+.fetured-bike-heading h1 {
+  color: #000000;
+}
+.fetured-bike-heading p {
+  color: #e76f51;
+}
+.horizontal-line {
+  margin-top: -13px;
+  width: 50px;
+  border: 1px solid #e76f51;
+}
+.bike-1,
+.bike-3 img {
+  filter: grayscale(100%);
+}
+
+/******************/
+/*  Latest News   */
+/******************/
+
+.news-btn {
+  background-color: transparent;
+  color: #e76f51;
+  border: 1px solid #e76f51;
+}
+.news-btn:hover {
+  background-color: #e76f51;
+  color: #ffffff;
+}
+
+/******************/
+/* Review Section */
+/******************/
+
+.text-color {
+  color: #e76f51;
+}
+.review-card {
+  padding: 15px;
+}
+.round-image {
+  height: 220px;
+}
+.review-card-details {
+  margin-top: -25px;
+}
+.fa-star {
+  color: #e77c40;
+}
+.font-size {
+  font-size: 14px;
+}
+
+/*******************/
+/*   New Arrival   */
+/*******************/
+
+.new-bike {
+  background-color: #264653;
+}
+
+/*******************/
+/*  Contact Form   */
+/*******************/
+
+.contact-form {
+  background-color: #ffe7e1;
+}
+
+/*******************/
+/* Footer Section  */
+/*******************/
+
+.footer {
+  background-color: #0b0d17;
+}
+.footer-left {
+  font-size: 16px;
+}
+.footer-right img {
+  width: 140px;
+}
+.first-line,
+.second-line,
+.copyright {
+  font-size: 14px;
+}
